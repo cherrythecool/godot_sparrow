@@ -1,3 +1,9 @@
+> [!WARNING]
+> This addon has been unsupported for a long time and is quite buggy, it's recommended
+> you switch to using [gdanimate](https://github.com/cherrythecool/gdanimate) instead,
+> which (while it mostly serves a different purpose) has the ability to export `SpriteFrames`
+> in a very similar way (without it happening directly as a normal imporrter unfortunately).
+
 <img src="asset-lib/icon.svg" alt="Godot Sparrow Icon" align="right" title="Godot Sparrow Icon" width=128 height=128>
 
 # godot_sparrow
